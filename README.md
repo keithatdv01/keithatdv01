@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @keithatdv01 and I'm a Sr Data Engineer in the Data Infra group at dv01
-- 👀 I’m interested in ... *data modeling* *Lisp* *knowledge graphs* and *rules engines*
-- 🌱 I’m currently learning ... *Scala* and *BigQuery*
+- 👋 Hi, I’m @keithatdv01 and I'm a Staff Engineer in the Data Platform / Engineering team at dv01
+- 👀 I’m interested in ... *data modeling* *functional programming* *Lisp* *knowledge graphs* *rules engines*
+- 🌱 I’m currently learning ... *Scala* *BigQuery*
 - 💞️ I’m looking to collaborate on ... *ESG*
 - 📫 How to reach me ... Slack, email, text or voice
 
